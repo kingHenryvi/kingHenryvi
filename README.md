@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **msalcantara4@up.edu.ph**
 
-- ⚡ Fun fact **I love spoiling people about anime or series (Not actually funny, I know that.) I also start watching tech films and I find it entertaining.**
+- ⚡ Fun fact **I love spoiling people about anime or series (Not actually funny, I know that.) I also started watching tech films and I find it entertaining.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
