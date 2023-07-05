@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">BS Computer Science, 3rd year | University of the Philippines ()</h3>
+<h3 align="center">BS Computer Science, 3rd year | University of the Philippines Los Banos</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/kingHenryvi/kingHenryvi.github.io)
 
